@@ -9,7 +9,6 @@
 <h2>Definitions</h2>
 <p>For the purposes of this Privacy Policy:</p>
 <ul>
-
     <li>
         <p><strong>Application</strong> refers to &quot;Folder SecureZip&quot;, the software program provided by the Developer.</p>
     </li>
@@ -58,11 +57,9 @@
     <li>
         <p><strong>To provide and maintain our Service</strong>, including to monitor the usage of our Service.</p>
     </li>
-
     <li>
         <p><strong>For the performance of a contract:</strong> the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.</p>
     </li>
-
     <li>
         <p><strong>For other purposes</strong>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.</p>
     </li>
